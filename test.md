@@ -2,4 +2,5 @@
 あいうえお
 ・git add
 ・git commit
-・git rm
+・git rm　
+かきくけこ
