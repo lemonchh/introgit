@@ -4,3 +4,5 @@
 ・git commit
 ・git rm　
 かきくけこ
+
+・git status
