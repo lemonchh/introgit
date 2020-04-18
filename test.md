@@ -6,3 +6,5 @@
 かきくけこ
 
 ・git status
+
+・git diff
